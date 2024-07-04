@@ -1,0 +1,23 @@
+
+ FUNC HEADER: main 
+
+ Local Variable:a 
+
+ Local Variable:b 
+
+ Local Variable:c 
+
+ Local Variable:discriminant 
+
+ Local Variable:root1 
+
+ Local Variable:root2 
+
+ Local Variable:realPart 
+
+ Local Variable:imagPart 
+
+ VAR: b  VAR: b  CONST-:4  VAR: a  VAR: c  Local Variable:discriminant 
+
+
+Synatax Error

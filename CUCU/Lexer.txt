@@ -1,0 +1,43 @@
+TYPE : int
+ID : main
+OPR_PAR: 
+CLR_PAR
+OPC_PAR
+TYPE : int
+ID : a
+SEMI : ;
+TYPE : int
+ID : b
+SEMI : ;
+TYPE : int
+ID : c
+SEMI : ;
+TYPE : int
+ID : discriminant
+SEMI : ;
+TYPE : int
+ID : root1
+SEMI : ;
+TYPE : int
+ID : root2
+SEMI : ;
+TYPE : int
+ID : realPart
+SEMI : ;
+TYPE : int
+ID : imagPart
+SEMI : ;
+ID : discriminant
+ASSIGN : =
+ID : b
+OP: *
+ID : b
+OP: -
+NUM : 4
+OP: *
+ID : a
+OP: *
+ID : c
+SEMI : ;
+COMMENTS
+COND_STMT: else
